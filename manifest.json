@@ -1,0 +1,26 @@
+{
+  "name": "김광림야구학교 취미반 보강수업 신청",
+  "short_name": "보강신청",
+  "description": "김광림야구학교 취미반 보강수업 신청 시스템",
+  "start_url": "/baseball-test/",
+  "scope": "/baseball-test/",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#0d1b2a",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
